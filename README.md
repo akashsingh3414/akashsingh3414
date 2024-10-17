@@ -31,7 +31,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center" style="padding: 2em; display: flex; justify-content: center; gap: 2em;">
+<div align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
