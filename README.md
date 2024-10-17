@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsingh3414" alt="akashsingh3414" /></a> </p>
 
