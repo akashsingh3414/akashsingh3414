@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img src="https://tenor.com/view/cat-coding-gif-22257939" />
+<img src="https://tenor.com/view/cat-coding-gif-22257939" alt="akashsingh3414" />
   
 - 🌱 I’m currently learning **NEXT.js, WebRTC**
 - 💬 Ask me about **React.js, Express.js, NEXT.js**
