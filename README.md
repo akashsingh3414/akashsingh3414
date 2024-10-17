@@ -11,14 +11,14 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/akashsingh3414" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashsingh3414" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/akashsingh3414/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/akashsingh3414/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="akashsingh3414" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aakashsingh3414" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashsingh3414" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/akashsingh3414/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashsingh3414" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akashsingh3414" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashsingh3414" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/akashsingh3414/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashsingh3414" height="30" width="40" />
   </a>
 </p>
 
