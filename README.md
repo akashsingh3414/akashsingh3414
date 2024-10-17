@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p><img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" /></p>
+<p><img src="https://www.bing.com/images/search?view=detailV2&ccid=LOWvI%2Bn6&id=A3305FBE481D1254F5FCFF4A745FDDE0F56D4684&thid=OIP.LOWvI-n6g0jSzmtRb1HrTwAAAA&mediaurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F2ce5af23e9fa8348d2ce6b516f51eb4f%2Ftenor.gif&exph=155&expw=220&q=programmer+gif&simid=608051088050436082&form=IRPRST&ck=EDB38FA30A6A2C19F82D3EC37C648154&selectedindex=10&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" /></p>
 - 🌱 I’m currently learning **NEXT.js, WebRTC**
 - 💬 Ask me about **React.js, Express.js, NEXT.js**
 - 📫 How to reach me: **akashsingh3414@gmail.com**
