@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20views&color=0e75b6&style=flat" alt="akashsingh3414" /> </p>
 
+<img src='https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH'/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsingh3414" alt="akashsingh3414" /></a> </p>
 
-- 🌱 I’m currently learning **next, webRTC**
+- 🌱 I’m currently learning **NEXT.Js, webRTC**
 
-- 💬 Ask me about **react, express, next,**
+- 💬 Ask me about **React.Js, Express.Js, NEXT.Js,**
 
 - 📫 How to reach me **akashsingh3414@gmail.com**
 
