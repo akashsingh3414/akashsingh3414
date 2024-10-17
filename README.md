@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20views&color=0e75b6&style=flat" alt="akashsingh3414" /> </p>
-
-<img src='https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH'/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH">via GIPHY</a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsingh3414" alt="akashsingh3414" /></a> </p>
 
