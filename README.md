@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-
+<p><img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357"></p>
 - 🌱 I’m currently learning **NEXT.js, WebRTC**
 - 💬 Ask me about **React.js, Express.js, NEXT.js**
 - 📫 How to reach me: **akashsingh3414@gmail.com**
