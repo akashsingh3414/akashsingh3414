@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<div align="center">
-  <img src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="300" height="300" frameBorder="0" class="giphy-embed" />
-</div>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashsingh3414" alt="akashsingh3414" />
-  </a>
-</p>
+<div class="tenor-gif-embed" data-postid="22257939" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/cat-coding-gif-22257939">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat+coding-gifs">Cat Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🌱 I’m currently learning **NEXT.js, WebRTC**
 - 💬 Ask me about **React.js, Express.js, NEXT.js**
@@ -30,9 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
