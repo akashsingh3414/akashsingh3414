@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<div><img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" ></div>
-<div clign>
+<div align="center"><img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" ></div>
+<div align="center">
   <p>- 🌱 I’m currently learning **NEXT.js, WebRTC**</p>
   <p>- 💬 Ask me about **React.js, Express.js, NEXT.js**</p>
   <p>- 📫 How to reach me: **akashsingh3414@gmail.com**</p>
