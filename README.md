@@ -8,9 +8,9 @@
 <br>
 
 <div align="center">
-  <p><strong>🌱 I’m currently learning</strong> <em>NEXT.js, WebRTC</em></p>
-  <p><strong>💬 Ask me about</strong> <em>React.js, Express.js, NEXT.js</em></p>
-  <p><strong>📫 How to reach me:</strong> <em>akashsingh3414@gmail.com</em></p>
+  <p><strong>🌱 I’m currently learning</strong> NEXT.js, WebRTC</p>
+  <p><strong>💬 Ask me about</strong> React.js, Express.js, NEXT.js</p>
+  <p><strong>📫 How to reach me:</strong> akashsingh3414@gmail.com</p>
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center" style="padding: 20px; display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="padding: 20px; display: flex; justify-content: center; gap: 30px;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
