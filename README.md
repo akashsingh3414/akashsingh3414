@@ -86,8 +86,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsingh3414&show_icons=true&locale=en&layout=compact" alt="akashsingh3414" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsingh3414&show_icons=true&locale=en" alt="akashsingh3414" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh3414&" alt="akashsingh3414" /></p>
