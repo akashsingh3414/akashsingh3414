@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20views&color=0e75b6&style=flat" alt="akashsingh3414" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20views&color=0e75b6&style=flat" alt="akashsingh3414" /> </p>
 
 <img src='https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH'/>
 
