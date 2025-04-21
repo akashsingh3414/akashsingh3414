@@ -1,87 +1,89 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
+<!-- Professional Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="Coding Gif" style="width: 100%; max-width: 300px; height: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Akash+Singh;Software+Developer" alt="Typing SVG" />
 </div>
 
-<br>
-
+<!-- Introduction Section -->
 <div align="center">
-  <p><strong>🌱 I’m currently learning</strong> NEXT.js, WebRTC</p>
-  <p><strong>💬 Ask me about</strong> React.js, Express.js, NEXT.js</p>
-  <p><strong>📫 How to reach me:</strong> akashsingh3414@gmail.com</p>
+  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="Coding Gif" width="220">
+  
+  <h3>About Me</h3>
+  <p>Aspiring Software Developer passionate about scalable systems, backend development, and problem-solving.</p>
+  <p>Currently focused on distributed systems, cloud infrastructure, and DevOps.</p>
 </div>
 
-<br>
+<!-- Skills Section -->
+<h2 align="center">Technologies & Tools</h2>
 
-<h3 align="center">Connect with me:</h3>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br />C++</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br />JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br />Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br />Node.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/><br />React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express"/><br />Express</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br />MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br />MySQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br />Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br />Linux</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br />Next.js</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase"/><br />Firebase</td>
+  </tr>
+</table>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsingh3414&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsingh3414&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh3414&theme=dracula" alt="GitHub Streak" />
+</div>
+
+<!-- Coding Profiles Section -->
+<h2 align="center">Coding Profiles</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/akashsingh3414/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/akashsingh3414/?ref=header_profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+</div>
+
+<!-- Connect Section -->
+<h2 align="center">Connect With Me</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/akashsingh3414/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/aakashsingh3414" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/akashsingh3414" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:akashsingh3414@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30"/>
   </a>
 </div>
 
+<!-- Profile Views Counter -->
 <br>
-
-<h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsingh3414&show_icons=true&locale=en" alt="akashsingh3414" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh3414&" alt="GitHub Streak Stats" />
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Divider">
+  <p>"Code is like humor. When you have to explain it, it's bad." — Cory House</p>
+</div>
