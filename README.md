@@ -1,89 +1,127 @@
-<!-- Professional Header Banner -->
+<!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Akash+Singh;Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Akash+Singh" alt="Typing Animation" />
 </div>
 
-<!-- Introduction Section -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="Coding Gif" width="220">
-  
-  <h3>About Me</h3>
-  <p>Aspiring Software Developer passionate about scalable systems, backend development, and problem-solving.</p>
-  <p>Currently focused on distributed systems, cloud infrastructure, and DevOps.</p>
-</div>
+<!-- About Me Section -->
+<p align="center">
+  Hi 👋, I'm Akash Singh — a passionate Software Developer. I thrive on solving complex problems that demand deep thinking and creativity. Driven by curiosity, I'm always eager to explore new technologies and sharpen my skills. My journey has taken me from the MERN stack to working with NestJS, Docker, AWS, and system design. Lately, I’ve been diving into unit testing with Jest and exploring Python and Natural Language Processing (NLP) for major projects. I’m committed to continuous growth and pushing my boundaries as a developer.
+</p>
 
-<!-- Skills Section -->
-<h2 align="center">Technologies & Tools</h2>
+
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack & Tools</h2>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br />C++</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br />JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br />Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br />Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/><br />React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express"/><br />Express</td>
+    <td colspan="2" align="center">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/>
+        <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
+        <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/>
+        <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+      </p>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br />MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br />MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br />Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br />Linux</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br />Next.js</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase"/><br />Firebase</td>
+    <td width="50%" align="center">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/>
+        <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" width="40"/>
+        <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/>
+        <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
+        <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40"/>
+      </p>
+        </td>
+      <td width="50%" align="center">
+      <h3>Backend & Database</h3>
+      <!-- Backend Technologies -->
+      <p>
+        <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="80"/>
+        <img src="https://img.icons8.com/color/48/nestjs.png" alt="NestJS" width="40"/>
+      </p>
+      <!-- Databases -->
+      <p>
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40"/>
+        <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
+        <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Tools & Technologies</h3>
+      <p>
+        <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+        <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="40"/>
+        <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40"/>
+        <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/>
+        <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+      </p>
+    </td>
   </tr>
 </table>
 
-<!-- GitHub Stats Section -->
+<br/>
+
+<!-- GitHub Statistics -->
 <h2 align="center">GitHub Analytics</h2>
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=akashsingh3414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh3414&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsingh3414&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Coding Profiles & Connect Section -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h2>Coding Profiles</h2>
+      <p>
+        <a href="https://leetcode.com/u/akashsingh3414/" target="_blank">
+          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40"/>
+        </a>
+        <a href="https://www.geeksforgeeks.org/user/akashsingh3414/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h2>Connect</h2>
+      <p>
+        <a href="https://www.linkedin.com/in/akashsingh3414/" target="_blank">
+          <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+        </a>
+        <a href="https://instagram.com/aakashsingh3414" target="_blank">
+          <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
+        </a>
+        <a href="mailto:akashsingh3414@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" width="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GIF Footer -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsingh3414&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsingh3414&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh3414&theme=dracula" alt="GitHub Streak" />
-</div>
-
-<!-- Coding Profiles Section -->
-<h2 align="center">Coding Profiles</h2>
-
-<div align="center">
-  <a href="https://leetcode.com/u/akashsingh3414/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/akashsingh3414/?ref=header_profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>
-</div>
-
-<!-- Connect Section -->
-<h2 align="center">Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/akashsingh3414/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/aakashsingh3414" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:akashsingh3414@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30"/>
-  </a>
-</div>
-
-<!-- Profile Views Counter -->
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashsingh3414&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Divider">
-  <p>"Code is like humor. When you have to explain it, it's bad." — Cory House</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
