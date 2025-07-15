@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Akash+Singh" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Akash+Kumar+Singh" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  Hi 👋, I'm Akash Singh — a passionate Software Developer. I thrive on solving complex problems that demand deep thinking and creativity. Driven by curiosity, I'm always eager to explore new technologies and sharpen my skills. My journey has taken me from the MERN stack to working with NestJS, Docker, AWS, and system design. I’m committed to continuous growth and pushing my boundaries as a developer.
+I'm a backend developer working with the NodeJS, NestJS, Docker, and AWS. I love building clean, reliable applications and believe in testing everything properly. Always working on getting better at algorithms and data structures. Looking for opportunities to work on exciting projects with great teams where I can learn and contribute.
 </p>
 
 <h2 align="center">Tech Stack & Tools</h2>
@@ -13,7 +13,11 @@
     <td align="center" colspan="2">
       <h3>Languages</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" />
+        <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+        <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
       </p>
     </td>
   </tr>
@@ -21,13 +25,21 @@
     <td align="center" width="50%">
       <h3>Frontend</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+        <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+        <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
       </p>
     </td>
     <td align="center" width="50%">
       <h3>Backend & Database</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,mongodb,mysql,postgresql" />
+        <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
+        <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+        <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+        <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+        <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+        <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
       </p>
     </td>
   </tr>
@@ -35,7 +47,12 @@
     <td colspan="2" align="center">
       <h3>Tools & Technologies</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,jest,linux,postman,docker,aws" />
+        <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+        <a href="https://jestjs.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest" /></a>
+        <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+        <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+        <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+        <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
       </p>
     </td>
   </tr>
